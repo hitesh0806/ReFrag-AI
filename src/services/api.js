@@ -2,7 +2,7 @@
  * API service for Forensic Data Ingestion
  */
 
-const API_BASE = "/api/forensics";
+const API_BASE = "https://refrag-ai-backend.onrender.com/api/forensics";
 
 export async function uploadForensicDataset(files, relativePaths = [], caseName = "") {
   const formData = new FormData();
