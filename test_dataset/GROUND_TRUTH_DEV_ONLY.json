@@ -1,0 +1,32 @@
+{
+  "target_description": "Mixed JPEG Forensic Evaluation Ground Truth",
+  "target_sha256": "16d58d65661324944b193a641b6bacf02ab549c4c9e80f234a5ce90de3a48d2b",
+  "target_size": 43202,
+  "target_fragment_count": 12,
+  "decoy_fragment_count": 8,
+  "total_fragment_count": 20,
+  "correct_fragment_order": [
+    "fragment_01_42a0f2.bin",
+    "fragment_02_5b6418.bin",
+    "fragment_03_7c5126.bin",
+    "fragment_04_9ec84b.bin",
+    "fragment_05_216ab8.bin",
+    "fragment_06_4715a9.bin",
+    "fragment_07_501849.bin",
+    "fragment_08_b12c87.bin",
+    "fragment_09_15759a.bin",
+    "fragment_10_4fa24d.bin",
+    "fragment_11_f70baf.bin",
+    "fragment_12_3f5f1c.bin"
+  ],
+  "decoy_fragments": [
+    "decoy_unrelated_01.bin",
+    "decoy_unrelated_02.bin",
+    "decoy_unrelated_03.bin",
+    "decoy_unrelated_04.bin",
+    "decoy_unrelated_05.bin",
+    "decoy_unrelated_06.bin",
+    "decoy_unrelated_07.bin",
+    "decoy_unrelated_08.bin"
+  ]
+}

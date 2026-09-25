@@ -1,0 +1,117 @@
+{
+  "benchmark_info": {
+    "source_jpeg": "C:\\Users\\hites\\Desktop\\ReFrag-AI\\test_dataset\\evidence_target.jpg",
+    "original_size": 43202,
+    "original_sha256": "16d58d65661324944b193a641b6bacf02ab549c4c9e80f234a5ce90de3a48d2b",
+    "num_fragments": 12,
+    "total_uploaded_fragments": 20,
+    "decoy_fragments": [
+      "decoy_unrelated_01.bin",
+      "decoy_unrelated_02.bin",
+      "decoy_unrelated_03.bin",
+      "decoy_unrelated_04.bin",
+      "decoy_unrelated_05.bin",
+      "decoy_unrelated_06.bin",
+      "decoy_unrelated_07.bin",
+      "decoy_unrelated_08.bin"
+    ]
+  },
+  "ground_truth_order": [
+    {
+      "sequence_step": 1,
+      "assigned_filename": "fragment_01_42a0f2.bin",
+      "sha256": "cb5d49be6b91e7f61ff755dd69d167babd042d674ae5a90de9af6cb30647f517",
+      "start_offset": 0,
+      "end_offset": 3600,
+      "size": 3600
+    },
+    {
+      "sequence_step": 2,
+      "assigned_filename": "fragment_02_5b6418.bin",
+      "sha256": "a3659d593c9817203fb19d65ad6b3f4c67978fa6082578cd5ac8ffb731cee89b",
+      "start_offset": 3600,
+      "end_offset": 7200,
+      "size": 3600
+    },
+    {
+      "sequence_step": 3,
+      "assigned_filename": "fragment_03_7c5126.bin",
+      "sha256": "e6373dcef2732c7fd7a7b6ca992d940c882abf57c47f5182c3c776b292614524",
+      "start_offset": 7200,
+      "end_offset": 10800,
+      "size": 3600
+    },
+    {
+      "sequence_step": 4,
+      "assigned_filename": "fragment_04_9ec84b.bin",
+      "sha256": "9f58429f3c006f72391cdbdb92c8342d3212e06db5b259ea2e0e556e10512288",
+      "start_offset": 10800,
+      "end_offset": 14401,
+      "size": 3601
+    },
+    {
+      "sequence_step": 5,
+      "assigned_filename": "fragment_05_216ab8.bin",
+      "sha256": "395aad69c7fd75dc59cb8508532ba990b941dd463177004712dd585bed0ad61c",
+      "start_offset": 14401,
+      "end_offset": 18001,
+      "size": 3600
+    },
+    {
+      "sequence_step": 6,
+      "assigned_filename": "fragment_06_4715a9.bin",
+      "sha256": "b53f43acbe03b4b0f397435bfffff001bd4ede2c9bef4f682ab31afc7ec145ac",
+      "start_offset": 18001,
+      "end_offset": 21601,
+      "size": 3600
+    },
+    {
+      "sequence_step": 7,
+      "assigned_filename": "fragment_07_501849.bin",
+      "sha256": "4c453fc8d6ea35a045c09dd15854abbb2d213aea522ada9f3a84622d1905842b",
+      "start_offset": 21601,
+      "end_offset": 25201,
+      "size": 3600
+    },
+    {
+      "sequence_step": 8,
+      "assigned_filename": "fragment_08_b12c87.bin",
+      "sha256": "fe951064baa81b2e3b2d99e46285f5ef5b9a8cd37f11aca47f0157f89e29bcac",
+      "start_offset": 25201,
+      "end_offset": 28801,
+      "size": 3600
+    },
+    {
+      "sequence_step": 9,
+      "assigned_filename": "fragment_09_15759a.bin",
+      "sha256": "1295db2180260edd6a6965c70e4c8fae7c8aa8a9854bc11b1eaa1f92c39f11b4",
+      "start_offset": 28801,
+      "end_offset": 32402,
+      "size": 3601
+    },
+    {
+      "sequence_step": 10,
+      "assigned_filename": "fragment_10_4fa24d.bin",
+      "sha256": "f5c4ffa1d684c2f866c8e826a4ce36efc8598cdcc9361e4282a4a515d0c34b45",
+      "start_offset": 32402,
+      "end_offset": 36002,
+      "size": 3600
+    },
+    {
+      "sequence_step": 11,
+      "assigned_filename": "fragment_11_f70baf.bin",
+      "sha256": "66233d7461beb10bcb612a5ba03a9e38938041c98516ea29fd45d466bdefc707",
+      "start_offset": 36002,
+      "end_offset": 39602,
+      "size": 3600
+    },
+    {
+      "sequence_step": 12,
+      "assigned_filename": "fragment_12_3f5f1c.bin",
+      "sha256": "11f77ba90e426f1c9a92613ef6cb9af7cbabaabfd8b11ffeeca9968e16846ed3",
+      "start_offset": 39602,
+      "end_offset": 43202,
+      "size": 3600
+    }
+  ]
+}

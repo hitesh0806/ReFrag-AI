@@ -34,7 +34,7 @@ class ForensicService:
         # Create new forensic case
         new_case = ForensicCase(
             case_name=case_name,
-            status="ingested",
+            status="UPLOADED",
             total_files=0,
             total_size=0
         )
